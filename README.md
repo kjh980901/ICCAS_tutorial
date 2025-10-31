@@ -11,9 +11,6 @@ MATLAB tutorials for autonomous vehicle control, machine learning, and optimizat
 **Folder**: `Tutorial_gpmpc/`
 - Gaussian Process enhanced Model Predictive Control
 
-### 3. Truck-Trailer NMPC Approximation
-**Folder**: `Tutorial_trcuktrailer_approximation/`
-- Neural network approximation of Nonlinear MPC
 
 ## Requirements
 - MATLAB R2020b or later
